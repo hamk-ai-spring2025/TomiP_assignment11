@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Generated files (optional, if you don't want to commit example outputs)
+*.pdf
+output_article.md
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
